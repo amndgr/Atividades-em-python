@@ -10,6 +10,7 @@ Sistema de cadastro de alunos que permite:
 - Calcular média automaticamente
 - Classificar como "Aprovado", "Reprovado" ou "Cursando"
 - Visualizar todos os cadastros
+  
 ![print do terminal](print-cadastro-de-aluno.png)
 
 
@@ -18,6 +19,7 @@ Calculadora interativa de geometria com interface no terminal:
 - Cálculo de **área e perímetro** de quadrado, retângulo e círculo
 - Cálculo da **área e volume** de cilindros
 - Animações e visual estilizado com ASCII Art
+  
 ![print do terminal](calculadora-geometrica.png)
 
 ### 3. `plano telefonico.py`
@@ -25,6 +27,7 @@ Simulador de plano telefônico:
 - Calcula o custo de ligações entre diferentes DDDs
 - Tabela de preços por origem/destino
 - Armazena e exibe um histórico das últimas 5 ligações realizadas
+  
 ![print do terminal](plano-telefonico.png)
 
 ### 4. `potencia e fatorial.py`
@@ -34,6 +37,7 @@ Programa matemático com decisões condicionais:
   - Dois pares: potência
   - Dois ímpares: soma dos fatoriais
   - Um par e um ímpar: fatorial dividido pela raiz quadrada
+    
 ![print do terminal](fatorial.png)
 
 ### 5. `valor de venda.py`
@@ -41,6 +45,7 @@ Sistema de gestão simples de produtos:
 - Cadastro de produtos com cálculo automático de lucro e valor de venda
 - Exibição do estoque
 - Simulação de compras com carrinho e cálculo de total
+  
 ![print do terminal](menu-valor-de-venda.png)
 ![print do terminal](registro-de-produto.png)
 
